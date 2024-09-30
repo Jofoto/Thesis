@@ -1,0 +1,29 @@
+[4/13/2024 5:00:49 PM] <b>[SteamVR Interaction]</b> ChaperoneInfo initialized. Standing play area 1.00m x 1.00m
+[4/13/2024 5:00:49 PM] C:\Stuff\Σχολή\Διπλωματική\VR + Unity stuff\Thesis_P11_S1.txt
+[4/13/2024 5:00:49 PM] File with the same UserID already exists. Please change the UserID in the C# code.
+[4/13/2024 5:02:35 PM] <b>[SteamVR Interaction]</b> ChaperoneInfo initialized. Standing play area 1.00m x 1.00m
+[4/13/2024 5:02:35 PM] C:\Stuff\Σχολή\Διπλωματική\VR + Unity stuff\Thesis_P11_S1.txt
+[4/13/2024 5:02:35 PM] File with the same UserID already exists. Please change the UserID in the C# code.
+[4/13/2024 5:02:58 PM] <b>[SteamVR Interaction]</b> ChaperoneInfo initialized. Standing play area 1.00m x 1.00m
+[4/13/2024 5:02:58 PM] C:\Stuff\Σχολή\Διπλωματική\VR + Unity stuff\Thesis_P11_S1.txt
+[4/13/2024 5:02:58 PM] File with the same UserID already exists. Please change the UserID in the C# code.
+[4/13/2024 5:04:26 PM] <b>[SteamVR Interaction]</b> ChaperoneInfo initialized. Standing play area 1.00m x 1.00m
+[4/13/2024 5:04:26 PM] C:\Stuff\Σχολή\Διπλωματική\VR + Unity stuff\Thesis_P11_S1.txt
+[4/13/2024 5:04:26 PM] File with the same UserID already exists. Please change the UserID in the C# code.
+[4/13/2024 5:05:29 PM] <b>[SteamVR Interaction]</b> ChaperoneInfo initialized. Standing play area 1.00m x 1.00m
+[4/13/2024 5:07:10 PM] <b>[SteamVR Interaction]</b> ChaperoneInfo initialized. Standing play area 1.00m x 1.00m
+[4/13/2024 5:07:10 PM] C:\Stuff\Σχολή\Διπλωματική\VR + Unity stuff\Thesis_P11_S1.txt
+[4/13/2024 5:07:10 PM] File with the same UserID already exists. Please change the UserID in the C# code.
+[4/13/2024 5:07:56 PM] <b>[SteamVR Interaction]</b> ChaperoneInfo initialized. Standing play area 1.00m x 1.00m
+[4/15/2024 2:48:00 PM] <b>[SteamVR Interaction]</b> ChaperoneInfo initialized. Standing play area 1.00m x 1.00m
+[4/15/2024 2:50:40 PM] <b>[SteamVR Interaction]</b> ChaperoneInfo initialized. Standing play area 1.00m x 1.00m
+[4/15/2024 3:01:16 PM] <b>[SteamVR Interaction]</b> ChaperoneInfo initialized. Standing play area 1.00m x 1.00m
+[4/15/2024 3:54:53 PM] <b>[SteamVR Interaction]</b> ChaperoneInfo initialized. Standing play area 1.00m x 1.00m
+[4/15/2024 4:12:04 PM] <b>[SteamVR Interaction]</b> ChaperoneInfo initialized. Standing play area 1.00m x 1.00m
+[4/15/2024 4:49:39 PM] <b>[SteamVR Interaction]</b> ChaperoneInfo initialized. Standing play area 1.00m x 1.00m
+[4/27/2024 7:45:04 PM] <b>[SteamVR Interaction]</b> ChaperoneInfo initialized. Standing play area 1.00m x 1.00m
+[4/27/2024 8:10:07 PM] C:\Stuff\Σχολή\Διπλωματική\VR + Unity stuff\Thesis_P13_S3.csv
+[5/14/2024 6:15:35 PM] [COGNITIVE3D] HMD set to Main Camera 1 (UnityEngine.Transform)
+[5/14/2024 6:15:35 PM] [COGNITIVE3D] Cognitive3D Initialized
+[5/14/2024 6:15:42 PM] [SRanipal] Initial Eye v2 success!
+[5/14/2024 6:15:42 PM] [COGNITIVE3D] Unable to find boundary points using XRInputSubsystem
