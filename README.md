@@ -1,5 +1,5 @@
 # Thesis
-#Using eye tracking for the prediction of motion sickness phenomena in virtual reality environments
+## Using eye tracking for the prediction of motion sickness phenomena in virtual reality environments
 In this thesis we examined motion sickness fenomena in Virtual Reality through eye tracking and physiological data. For the eye tracking, we used the SDK by Cognitive3D. We created two virtual environments, one of which had a friendly theme and didn't cause much emotion to the player, while the other was horror themed to also examine how negative emotions could affect the levels of sickness felt by the user. In this directory are the Unity files which contain the worlds that where in the experiment. \\
 Here are some screenshots from the environments: (All the assets where downloaded form the [Unity Asset Store](https://assetstore.unity.com) ).
 
