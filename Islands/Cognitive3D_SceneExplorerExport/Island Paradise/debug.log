@@ -1,0 +1,258 @@
+*****************************
+***********SYSTEM************
+*****************************
+Unity Version:2022.3.20f1
+OS:Windows 10  (10.0.19045) 64bit
+System Time: 5/30/2024 6:10:54 PM
+
+*****************************
+***********PROJECT***********
+*****************************
+Scripting Define Symbols: UNITY_POST_PROCESSING_STACK_V2;USE_INPUT_SYSTEM_POSE_CONTROL;USE_STICK_CONTROL_THUMBSTICKS;CROSS_PLATFORM_INPUT;C3D_SRANIPAL
+Packages:
+  com.htc.upm.vive.openxr 2.2.0
+  com.tobii.xr.sdk 3.0.1
+  com.unity.cinemachine 2.9.5
+  com.unity.collab-proxy 2.2.0
+  com.unity.feature.development 1.0.1
+  com.unity.feature.vr 1.0.0
+  com.unity.ide.rider 3.0.27
+  com.unity.ide.visualstudio 2.0.22
+  com.unity.ide.vscode 1.2.5
+  com.unity.recorder 4.0.2
+  com.unity.terrain-tools 5.0.1
+  com.unity.test-framework 1.1.33
+  com.unity.textmeshpro 3.0.6
+  com.unity.timeline 1.7.6
+  com.unity.ugui 1.0.0
+  com.unity.visualscripting 1.9.1
+  com.unity.xr.hands 1.3.0
+  com.unity.xr.interaction.toolkit 2.5.4
+  com.unity.xr.openxr 1.10.0
+  com.valvesoftware.unity.openvr 1.2.1
+  com.unity.modules.ai 1.0.0
+  com.unity.modules.androidjni 1.0.0
+  com.unity.modules.animation 1.0.0
+  com.unity.modules.assetbundle 1.0.0
+  com.unity.modules.audio 1.0.0
+  com.unity.modules.cloth 1.0.0
+  com.unity.modules.director 1.0.0
+  com.unity.modules.imageconversion 1.0.0
+  com.unity.modules.imgui 1.0.0
+  com.unity.modules.jsonserialize 1.0.0
+  com.unity.modules.nvidia 1.0.0
+  com.unity.modules.particlesystem 1.0.0
+  com.unity.modules.physics 1.0.0
+  com.unity.modules.physics2d 1.0.0
+  com.unity.modules.screencapture 1.0.0
+  com.unity.modules.terrain 1.0.0
+  com.unity.modules.terrainphysics 1.0.0
+  com.unity.modules.tilemap 1.0.0
+  com.unity.modules.ui 1.0.0
+  com.unity.modules.uielements 1.0.0
+  com.unity.modules.umbra 1.0.0
+  com.unity.modules.unityanalytics 1.0.0
+  com.unity.modules.unitywebrequest 1.0.0
+  com.unity.modules.unitywebrequestassetbundle 1.0.0
+  com.unity.modules.unitywebrequestaudio 1.0.0
+  com.unity.modules.unitywebrequesttexture 1.0.0
+  com.unity.modules.unitywebrequestwww 1.0.0
+  com.unity.modules.vehicles 1.0.0
+  com.unity.modules.video 1.0.0
+  com.unity.modules.vr 1.0.0
+  com.unity.modules.wind 1.0.0
+  com.unity.modules.xr 1.0.0
+  com.cognitive3d.c3d-sdk 1.4.7
+SDK Version: 1.4.7
+Api Key: ****15Y7
+Developer Key: ****56KB
+Enable Logging: True
+Enable Development Logging: False
+Gaze Type: Physics
+Snapshot Interval: 0.1
+Dynamic Object Search in Parent: True
+Dynamic Object Layer Mask: -1
+Track GPS Location: False
+GPS Accuracy: 2
+Record Floor Position: True
+Automatic Send Timer: 10
+Gaze Snapshot Batch Size: 256
+Event Snapshot Batch Size: 256
+Dynamic Snapshot Batch Size: 512
+Sensor Snapshot Batch Size: 512
+Fixation Snapshot Batch Size: 256
+Save Data to Local Cache if no internet connection: True
+Cache Size (bytes): 104857600
+Cache Size (mb): 100.0 MB
+Custom Protocol: https
+Custom Gateway: data.cognitive3d.com
+Custom Viewer: viewer.cognitive3d.com/scene/
+Custom Dashboard: app.cognitive3d.com
+Texture Export Quality: 2
+Export Lowest LOD from LODGroup Components: True
+Scene Settings:
+  ├─Island Example 3
+  │  ├─Scene Id: a72e7663-abf8-43a1-acc1-ff0e149bd075
+  │  ├─Scene Path: Assets/Snowconesolid Assets/Super Beach Pack/Scenes/Island Example 3.unity
+  │  ├─Last Revision: 05/13/2024 18:04:38
+  │  ├─Version Number: 4
+  │  └─Version Id: 6316
+  └─Island Paradise
+     ├─Scene Id: 
+     ├─Scene Path: Assets/Scenes/Island Paradise.unity
+     ├─Last Revision: 
+     ├─Version Number: 0
+     └─Version Id: 0
+
+*****************************
+********CURRENT SCENE********
+*****************************
+Scene Name: Island Paradise
+Scene Id: 
+Scene Path: Assets/Scenes/Island Paradise.unity
+Last Revision: 
+Version Number: 0
+Version Id: 0
+Scene Size (mb): 3.84
+Main Camera GameObject: Main Camera 1
+Manager Initialize On Start: True
+Manager Startup Delay Time (s): 0
+
+*****************************
+****CURRENT SCENE OBJECTS****
+*****************************
+Dynamic Object Count: 11
+  ├─LifePreservers_Blue_Desktop
+  │  ├─Mesh Name: lifepreservers_blue_desktop
+  │  ├─Has Collider: true
+  │  ├─Collider Type: UnityEngine.MeshCollider
+  │  └─Has Children: false
+  ├─WaterProDaytime
+  │  ├─Mesh Name: waterprodaytime
+  │  ├─Has Collider: true
+  │  ├─Collider Type: UnityEngine.MeshCollider
+  │  └─Has Children: false
+  ├─Surfboard_Yellow_Desktop
+  │  ├─Mesh Name: surfboard_yellow_desktop
+  │  ├─Has Collider: true
+  │  ├─Collider Type: UnityEngine.MeshCollider
+  │  └─Has Children: false
+  ├─LifePreservers_Red_Desktop
+  │  ├─Mesh Name: lifepreservers_red_desktop
+  │  ├─Has Collider: true
+  │  ├─Collider Type: UnityEngine.MeshCollider
+  │  └─Has Children: false
+  ├─BeachBucket_Blue_Desktop
+  │  ├─Mesh Name: beachbucket_blue_desktop
+  │  ├─Has Collider: true
+  │  ├─Collider Type: UnityEngine.MeshCollider
+  │  └─Has Children: false
+  ├─Left Controller
+  │  ├─Mesh Name: 
+  │  ├─Has Collider: true
+  │  ├─Collider Type: UnityEngine.SphereCollider
+  │  └─Has Children: false
+  ├─RubberDuck_Yellow
+  │  ├─Mesh Name: rubberduck_yellow
+  │  ├─Has Collider: true
+  │  ├─Collider Type: UnityEngine.MeshCollider
+  │  └─Has Children: false
+  ├─BeachBucket_Green_Desktop
+  │  ├─Mesh Name: beachbucket_green_desktop
+  │  ├─Has Collider: true
+  │  ├─Collider Type: UnityEngine.MeshCollider
+  │  └─Has Children: false
+  ├─RubberDuck_Pond
+  │  ├─Mesh Name: rubberduck_pond
+  │  ├─Has Collider: true
+  │  ├─Collider Type: UnityEngine.MeshCollider
+  │  └─Has Children: false
+  ├─Right Controller
+  │  ├─Mesh Name: 
+  │  ├─Has Collider: true
+  │  ├─Collider Type: UnityEngine.SphereCollider
+  │  └─Has Children: false
+  └─LifePreservers_Red_Desktop
+     ├─Mesh Name: lifepreservers_red_desktop
+     ├─Has Collider: true
+     ├─Collider Type: UnityEngine.MeshCollider
+     └─Has Children: false
+
+*****************************
+********EXPORT FOLDER********
+*****************************
+/Cognitive3D_SceneExplorerExport (56mb)
+   /Dynamic (0.46mb)
+      /beachbucket_blue_desktop (0.08mb)
+         1178160420Texture_ColorGridMain.png (0.01mb)
+         beachbucket_blue_desktop.bin (0.04mb)
+         beachbucket_blue_desktop.gltf (0.00mb)
+         cvr_object_thumbnail.png (0.02mb)
+      /beachbucket_green_desktop (0.08mb)
+         1178160420Texture_ColorGridMain.png (0.01mb)
+         beachbucket_green_desktop.bin (0.04mb)
+         beachbucket_green_desktop.gltf (0.00mb)
+         cvr_object_thumbnail.png (0.03mb)
+      /lifepreservers_red_desktop (0.11mb)
+         1178160420Texture_ColorGridMain.png (0.01mb)
+         cvr_object_thumbnail.png (0.04mb)
+         lifepreservers_red_desktop.bin (0.06mb)
+         lifepreservers_red_desktop.gltf (0.00mb)
+      /rubberduck_pond (0.09mb)
+         1805156421Texture_RubberDucksMain.png (0.04mb)
+         cvr_object_thumbnail.png (0.02mb)
+         rubberduck_pond.bin (0.03mb)
+         rubberduck_pond.gltf (0.00mb)
+      /rubberduck_yellow (0.10mb)
+         1805156421Texture_RubberDucksMain.png (0.04mb)
+         cvr_object_thumbnail.png (0.03mb)
+         rubberduck_yellow.bin (0.03mb)
+         rubberduck_yellow.gltf (0.00mb)
+   /Island Example 3 (3.70mb)
+      1178160420Texture_ColorGridMain.png (0.01mb)
+      1656341661Texture_Umbrellas_ChairsMain.png (0.01mb)
+      1805156421Texture_RubberDucksMain.png (0.04mb)
+      2026836118Texture_Trees_BeachesMain.png (0.49mb)
+      371857150New_Terrain_2Main.png (0.08mb)
+      636829530TeleportMarkerMain.png (0.00mb)
+      debug.log (0.01mb)
+      scene.bin (2.31mb)
+      scene.gltf (0.18mb)
+      settings.json (0.00mb)
+      /screenshot (0.56mb)
+         screenshot.png (0.56mb)
+   /Island Paradise (3.84mb)
+      1178160420Texture_ColorGridMain.png (0.01mb)
+      1656341661Texture_Umbrellas_ChairsMain.png (0.01mb)
+      2026836118Texture_Trees_BeachesMain.png (0.49mb)
+      371857150New_Terrain_2Main.png (0.08mb)
+      371857150PlacementCanvasMain.png (0.00mb)
+      636829530TeleportMarkerMain.png (0.00mb)
+      949188147PolyPackBoatsMain.png (0.01mb)
+      scene.bin (2.99mb)
+      scene.gltf (0.24mb)
+      settings.json (0.00mb)
+   /SampleScene (48.00mb)
+      1090950206Rock5_msMetallicGloss.png (1.61mb)
+      126592511diffuseMain.png (0.18mb)
+      1386775477diffuseMain.png (0.18mb)
+      1519219177food_lychee_01_nor_gl_4kBump.png (1.44mb)
+      1624376175TeleportAreaPatternColorMain.png (0.01mb)
+      1751677712diffuseMain.png (0.18mb)
+      1884926927island_tree_01_diff_4kMain.png (2.05mb)
+      1906128204island_tree_01_leaves_diff_4kMain.png (1.01mb)
+      2007999724island_tree_01_branches_nor_gl_4kMain.png (2.13mb)
+      212039425Rock5Main.png (2.25mb)
+      336850153food_lychee_01_diff_4kMain.png (1.45mb)
+      371857150New_TerrainMain.png (19.36mb)
+      371857150teleport_marker_canvasMain.png (0.00mb)
+      398735526diffuseMain.png (0.18mb)
+      45991817Rock5_nmpBump.png (2.06mb)
+      636829530TeleportMarkerMain.png (0.00mb)
+      972865279island_tree_01_nor_gl_4kBump.png (2.13mb)
+      debug.log (0.00mb)
+      scene.bin (2.95mb)
+      scene.gltf (8.13mb)
+      settings.json (0.00mb)
+      /screenshot (0.71mb)
+         screenshot.png (0.71mb)
